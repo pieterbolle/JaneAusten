@@ -1,0 +1,5 @@
+venv
+input
+intermediate_output
+output
+slurmjobs/*.out
