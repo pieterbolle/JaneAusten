@@ -1,19 +1,20 @@
 #!/bin/bash
 #SBATCH --mail-type=BEGIN,END,FAIL
 #SBATCH --mail-user=pieter.bolle@student.kuleuven.be
-#SBATCH --job-name=austen_nlp
+#SBATCH --job-name=austen_nlp_70B_eval
 #SBATCH --cluster=wice           # Target the WICE cluster
 #SBATCH --partition=gpu_h100          # Request the GPU partition
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --gpus-per-node=4
-#SBATCH --cpus-per-task=16       # Meer CPU cores voor data-sharding
-#SBATCH --mem=120G            # Meer systeemgeheugen
-#SBATCH --time=03:00:00          # Training zal iets langer duren, 2 uur is veilig
-#SBATCH --output=logs_austen.%j.out
+#SBATCH --gpus-per-node=2
+#SBATCH --cpus-per-task=8       # Meer CPU cores voor data-sharding
+#SBATCH --mem=180G            # Meer systeemgeheugen
+#SBATCH --time=00:45:00          # Training zal iets langer duren, 2 uur is veilig
+#SBATCH --output=logs_austen_70B_eval.%j.out
 #SBATCH --account=lp_edu_maibi_anndl
 
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+export CUDA_DISABLE_P2P=1
 
 # --- VERWIJS HUGGINGFACE NAAR DE SCRATCH PARTITIE ---
 export HF_HOME=$VSC_SCRATCH/huggingface_cache
@@ -24,6 +25,10 @@ export HF_TOKEN="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"
 export TMPDIR=$VSC_SCRATCH/pip_tmp
 mkdir -p $TMPDIR
 export TRITON_CACHE_DIR=$VSC_SCRATCH/triton_cache
+
+export TORCH_NCCL_ASYNC_ERROR_HANDLING=1
+export TORCH_NCCL_BLOCKING_WAIT=1
+export TORCH_DISTRIBUTED_TIMEOUT=7200
 
 # Modules laden (afhankelijk van specifieke VSC-architectuur)
 module purge                            # Schoon eventuele conflicterende modules op
@@ -44,4 +49,4 @@ pip install flash_attn --no-build-isolation --no-cache-dir
 rm -rf $TMPDIR
 
 # Stap 2: Model trainen
-accelerate launch --multi_gpu --num_processes=4 --mixed_precision=bf16 2_train.py
+python3 3_evaluate.py --model_id "meta-llama/Llama-3.3-70B-Instruct" --adapter_dir "$VSC_SCRATCH/JaneAusten/fine_tuned_austen"
