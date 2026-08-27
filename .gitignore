@@ -1,7 +1,6 @@
 venv
 input
 intermediate_output
-output
 slurmjobs/*.out
 core.220295
 core.220296
