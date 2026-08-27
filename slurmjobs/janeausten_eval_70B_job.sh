@@ -9,7 +9,7 @@
 #SBATCH --gpus-per-node=2
 #SBATCH --cpus-per-task=8       # Meer CPU cores voor data-sharding
 #SBATCH --mem=180G            # Meer systeemgeheugen
-#SBATCH --time=00:45:00          # Training zal iets langer duren, 2 uur is veilig
+#SBATCH --time=01:00:00          # Training zal iets langer duren, 2 uur is veilig
 #SBATCH --output=logs_austen_70B_eval.%j.out
 #SBATCH --account=lp_edu_maibi_anndl
 
@@ -48,5 +48,6 @@ pip install flash_attn --no-build-isolation --no-cache-dir
 
 rm -rf $TMPDIR
 
-# Stap 2: Model trainen
-python3 3_evaluate.py --model_id "meta-llama/Llama-3.3-70B-Instruct" --adapter_dir "$VSC_SCRATCH/JaneAusten/fine_tuned_austen"
+# Stap 2: Model evalueren
+python3 -u 3_evaluate.py --model_id "meta-llama/Llama-3.3-70B-Instruct" --adapter_dir "$VSC_SCRATCH/JaneAusten/fine_tuned_austen_70b_tokenfix_v5" --data_file intermediate_output/val.jsonl --output_file "$VSC_SCRATCH/JaneAusten/evaluation_val_70b.jsonl" --max_new_tokens 768 --verbose
+

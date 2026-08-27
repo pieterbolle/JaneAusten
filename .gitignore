@@ -3,3 +3,8 @@ input
 intermediate_output
 output
 slurmjobs/*.out
+core.220295
+core.220296
+core.220297
+core.220298
+__pycache__

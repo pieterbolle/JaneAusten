@@ -10,7 +10,7 @@
 #SBATCH --cpus-per-task=4       # Meer CPU cores voor data-sharding
 #SBATCH --mem=40G            # Meer systeemgeheugen
 #SBATCH --time=01:45:00          # Training zal iets langer duren, 2 uur is veilig
-#SBATCH --output=logs_austen_8B.%j.out
+#SBATCH --output=logs_austen_8B_eval.%j.out
 #SBATCH --account=lp_edu_maibi_anndl
 
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
@@ -43,5 +43,5 @@ pip install flash_attn --no-build-isolation --no-cache-dir
 
 rm -rf $TMPDIR
 
-# Stap 2: Model trainen
-python3 3_evaluate.py  --model_id "meta-llama/Llama-3.1-8B-Instruct" --adapter_dir "$VSC_SCRATCH/JaneAusten/fine_tuned_austen_8b"
+# Stap 2: Model evalueren
+python3 -u 3_evaluate.py  --model_id "meta-llama/Llama-3.1-8B-Instruct" --adapter_dir "$VSC_SCRATCH/JaneAusten/fine_tuned_austen_8b" --verbose

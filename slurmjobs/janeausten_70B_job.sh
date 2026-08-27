@@ -9,7 +9,7 @@
 #SBATCH --gpus-per-node=4
 #SBATCH --cpus-per-task=16       # Meer CPU cores voor data-sharding
 #SBATCH --mem=180G            # Meer systeemgeheugen
-#SBATCH --time=03:00:00          # Training zal iets langer duren, 2 uur is veilig
+#SBATCH --time=02:00:00          # Training zal iets langer duren, 2 uur is veilig
 #SBATCH --output=logs_austen_70B.%j.out
 #SBATCH --account=lp_edu_maibi_anndl
 
@@ -48,4 +48,4 @@ pip install flash_attn --no-build-isolation --no-cache-dir
 rm -rf $TMPDIR
 
 # Stap 2: Model trainen
-accelerate launch --multi_gpu --num_processes=4 --mixed_precision=bf16 2_train_llama70B.py
+accelerate launch --multi_gpu --num_processes=4 --num_machines=1 --mixed_precision=bf16 --dynamo_backend=no 2_train_llama70B.py

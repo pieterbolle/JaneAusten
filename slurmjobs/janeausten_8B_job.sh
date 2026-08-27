@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --mail-type=BEGIN,END,FAIL
 #SBATCH --mail-user=pieter.bolle@student.kuleuven.be
-#SBATCH --job-name=austen_nlp_8B_eval
+#SBATCH --job-name=austen_nlp_8B
 #SBATCH --cluster=wice           # Target the WICE cluster
 #SBATCH --partition=gpu_h100          # Request the GPU partition
 #SBATCH --nodes=1
@@ -9,8 +9,8 @@
 #SBATCH --gpus-per-node=1
 #SBATCH --cpus-per-task=4       # Meer CPU cores voor data-sharding
 #SBATCH --mem=40G            # Meer systeemgeheugen
-#SBATCH --time=01:45:00          # Training zal iets langer duren, 2 uur is veilig
-#SBATCH --output=logs_austen_8B_eval.%j.out
+#SBATCH --time=01:00:00          # Training lukt ondertussen op 2u
+#SBATCH --output=logs_austen_8B.%j.out
 #SBATCH --account=lp_edu_maibi_anndl
 
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
@@ -44,4 +44,4 @@ pip install flash_attn --no-build-isolation --no-cache-dir
 rm -rf $TMPDIR
 
 # Stap 2: Model trainen
-accelerate launch --mixed_precision=bf16 2_train_llama8B.py
+python3 -u 2_train_llama8B.py

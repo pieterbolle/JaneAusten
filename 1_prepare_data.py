@@ -1,99 +1,86 @@
-import pandas as pd
 import json
+import os
 import re
+import xml.etree.ElementTree as ET
 from sklearn.model_selection import train_test_split
 
-def standardize_names(name_string):
+TURN_NUMBER_PATTERN = re.compile(
+    r"<turn\b[^>]*\s+n\s*=\s*[\"'][^\"']*[\"']",
+    flags=re.IGNORECASE,
+)
+
+def clean_xml_entities(text_str):
     """
-    Trimt ongewenste spaties en sorteert meervoudige namen alfabetisch
-    om combinatorische explosie in de evaluatie te voorkomen.
+    Vertaal HTML/XML entities terug naar pure leestekens, zodat 
+    Llama 3 leert werken met echte aanhalingstekens en apostrofs.
     """
-    if pd.isnull(name_string):
-        return "Unknown"
+    if not text_str: return ""
+    text_str = text_str.replace("&quot;", '"')
+    text_str = text_str.replace("&#x27;", "'")
+    text_str = text_str.replace("&amp;", "&")
+    return text_str
 
-    name_str = str(name_string).strip()
-    if name_str in ["", "?", "nan", "Unknown"]:
-        return "Unknown"
+def remove_turn_numbers(paragraph):
+    """Remove the n attribute from every turn element in a paragraph."""
+    removed_count = 0
+
+    for turn in paragraph.iter("turn"):
+        if "n" in turn.attrib:
+            del turn.attrib["n"]
+            removed_count += 1
+
+    return removed_count
+
+def parse_xml_to_llama3_dataset(xml_path):
+    tree = ET.parse(xml_path)
+    root = tree.getroot()
     
-    # Splits op de '+', trim de spaties per individu, filter lege strings eruit
-    names = [n.strip() for n in name_str.split('+') if n.strip()]
-    
-    if not names:
-        return "Unknown"
-        
-    # Sorteer alfabetisch en voeg weer samen met een strakke ' + '
-    return " + ".join(sorted(names))
-
-def load_and_parse_data(csv_path):
-    df = pd.read_csv(csv_path, sep=';', encoding='utf-8')
-    turns = []
-    
-    current_text = []
-    current_speaker = None
-    current_addressee = None
-    current_bystander = "no"
-    
-    for idx, row in df.iterrows():
-        text_val = str(row['text']) if pd.notnull(row['text']) else ""
-        
-        # Als er een nieuwe spreker gedefinieerd is, start een nieuwe turn
-        if pd.notnull(row['speaker']):
-            if current_text:
-                turns.append({
-                    "text": " ".join(current_text),
-                    "speaker": current_speaker,
-                    "addressee": current_addressee,
-                    "bystanders": current_bystander
-                })
-            current_text = [text_val]
-
-            current_speaker = standardize_names(row['speaker'])
-            current_addressee = standardize_names(row['addressee'])
-            
-            # Bystanders is binair (yes/no), dus die hoeft niet gesorteerd te worden
-            current_bystander = "yes" if pd.notnull(row['by-stander']) and row['by-stander'] != "?" else "no"
-        else:
-            if text_val:
-                current_text.append(text_val)
-                
-        # Check of de turn hier eindigt op basis van de $$ marker
-        if "$$" in text_val and current_text:
-            turns.append({
-                "text": " ".join(current_text),
-                "speaker": current_speaker,
-                "addressee": current_addressee,
-                "bystanders": current_bystander
-            })
-            current_text = []
-    return turns
-
-def build_xml_target(turn):
-    cleaned = turn["text"].replace('$$', '').replace('$', '')
-    parts = cleaned.split('"')
-    reconstructed = ""
-    for i, part in enumerate(parts):
-        if i % 2 == 0:  # Buiten aanhalingstekens (interruptie door verteller)
-            if part.strip() and any(c.isalpha() for c in part):
-                reconstructed += f"<interruption>{part}</interruption>"
-            else:
-                reconstructed += part
-        else:  # Binnen aanhalingstekens (directe rede)
-            reconstructed += f'"{part}"'
-            
-    return f'<turn S="{turn["speaker"]}" A="{turn["addressee"]}" bystanders="{turn["bystanders"]}">{reconstructed}</turn>'
-
-def convert_to_llama3_format(turns):
     dataset = []
-    system_prompt = (
-        "You are an expert NLP system. Convert the raw narrative literary text into a structured XML turn format. "
-        "Identify the Speaker (S), Addressee (A), Bystanders (yes/no), and wrap narrative interruptions within the turn in <interruption> tags."
-    )
     
-    # We geven het model steeds een klein venster van de context mee (bijv. 20 voorgaande turns)
-    for i in range(len(turns)):
-        context_str = "\n".join([t["text"] for t in turns[max(0, i-20):i]])
-        user_input = f"Context history:\n{context_str}\n\nTarget text to parse:\n{turns[i]['text']}"
-        target_xml = build_xml_target(turns[i])
+    # We slaan de ruwe tekst van de voorgaande paragrafen op als context
+    chronological_history = []
+    removed_turn_numbers = 0
+    paragraphs_with_turns = 0
+    
+    system_prompt = (
+        "You are an expert NLP system specialized in 19th-century English literature. "
+        "Your task is to annotate a given raw paragraph with structured XML dialogue tags. "
+        "Precisely identify the Speaker (S), Addressee (A), Bystanders (yes/no), and Indirect Speech (yes). "
+        "Wrap any dialogue in <turn> tags, and wrap narrative interruptions inside the dialogue in <interruption> tags. "
+        "If the paragraph contains no dialogue, output it exactly as is. "
+        "Rely strictly on the textual structure and punctuation provided. Do not use prior knowledge of the novel."
+    )
+
+    for p in root.findall("p"):
+        # 1. Bepaal de 'Target XML' (de output die de assistent moet genereren)
+        # We pakken de interne structuur van de <p> tag.
+        paragraph_turns = list(p.iter("turn"))
+        if paragraph_turns:
+            paragraphs_with_turns += 1
+        removed_turn_numbers += remove_turn_numbers(p)
+        inner_xml_parts = [p.text or ""]
+        for child in p:
+            inner_xml_parts.append(ET.tostring(child, encoding="unicode", method="xml"))
+        
+        target_xml = "".join(inner_xml_parts).strip()
+        target_xml = clean_xml_entities(target_xml)
+        
+        # 2. Bepaal de 'Raw Text' (de input die de gebruiker geeft)
+        # Dit is puur de tekst, waarbij alle XML-tags (zoals <turn> en <interruption>) gestript zijn.
+        raw_text = "".join(p.itertext()).strip()
+        raw_text = clean_xml_entities(raw_text)
+        
+        if not raw_text:
+            continue
+            
+        # Het cijfer hieronder duidt het aantal paragrafen aan.
+        context_window = chronological_history[-3:]
+        if context_window:
+            context_str = "\n\n".join(context_window)
+        else:
+            context_str = "No preceding context (Start of book)."
+            
+        user_input = f"Context history:\n{context_str}\n\nTarget paragraph to parse:\n{raw_text}"
         
         messages = [
             {"role": "system", "content": system_prompt},
@@ -101,20 +88,55 @@ def convert_to_llama3_format(turns):
             {"role": "assistant", "content": target_xml}
         ]
         dataset.append({"messages": messages})
+        
+        # 4. Voeg deze ruwe paragraaf toe aan de geschiedenis voor de volgende beurt
+        chronological_history.append(raw_text)
+
+    print(
+        f"Removed {removed_turn_numbers} turn-number attributes "
+        f"from {paragraphs_with_turns} paragraphs containing turns."
+    )
     return dataset
 
+def validate_dataset_has_no_turn_numbers(dataset, dataset_name):
+    """Validate that no assistant target contains a numbered turn element."""
+    offending_examples = []
+
+    for example_index, example in enumerate(dataset):
+        assistant_target = example["messages"][-1]["content"]
+        if TURN_NUMBER_PATTERN.search(assistant_target):
+            offending_examples.append(example_index)
+
+    if offending_examples:
+        raise ValueError(
+            f"{dataset_name} contains turn numbers in examples: "
+            f"{offending_examples[:20]}"
+        )
+
+    print(
+        f"Validated {len(dataset)} {dataset_name} examples: "
+        "no turn-number attributes remain."
+    )
+
 if __name__ == "__main__":
-    raw_turns = load_and_parse_data("input/pride_and_prejudice_JK.csv")
-    formatted_data = convert_to_llama3_format(raw_turns)
+    print("Inladen en parsen van de schone XML naar paragraaf-niveau...")
+    dataset = parse_xml_to_llama3_dataset("output/pride_and_prejudice_clean.xml")
     
-    train_data, val_data = train_test_split(formatted_data, test_size=0.1, random_state=42)
+    print(f"Splitsen van {len(dataset)} paragrafen in training en validatie...")
+    # random_state zorgt voor een vaste split, shuffle is belangrijk zodat het model 
+    # alle fases van het boek ziet tijdens de training
+    train_data, val_data = train_test_split(dataset, test_size=0.1, random_state=42)
     
-    with open("intermediate_output/train.jsonl", "w") as f:
+    validate_dataset_has_no_turn_numbers(train_data, "training")
+    validate_dataset_has_no_turn_numbers(val_data, "validation")
+    os.makedirs("intermediate_output", exist_ok=True)
+    
+    with open("intermediate_output/train.jsonl", "w", encoding="utf-8") as f:
         for entry in train_data:
             f.write(json.dumps(entry) + "\n")
             
-    with open("intermediate_output/val.jsonl", "w") as f:
+    with open("intermediate_output/val.jsonl", "w", encoding="utf-8") as f:
         for entry in val_data:
             f.write(json.dumps(entry) + "\n")
             
-    print(f"Data succesvol klaargezet! {len(train_data)} training en {len(val_data)} validatie samples.")
+    print(f"Data succesvol klaargezet! {len(train_data)} training en {len(val_data)} validatie samples klaar voor Llama 3.")
