@@ -1,0 +1,539 @@
+{
+  "input": "output/northanger_abbey_annotated_llama70B.xml",
+  "output": "output/normalised/northanger_abbey_annotated_normalised.xml",
+  "book": "Northanger Abbey",
+  "turns": 860,
+  "changed_labels": 986,
+  "changed_by_attribute": {
+    "A": 491,
+    "S": 495
+  },
+  "unresolved_labels": [
+    {
+      "attribute": "S",
+      "value": "Unknown",
+      "count": 141
+    },
+    {
+      "attribute": "A",
+      "value": "Unknown",
+      "count": 108
+    },
+    {
+      "attribute": "A",
+      "value": "unknown",
+      "count": 30
+    },
+    {
+      "attribute": "S",
+      "value": "unknown",
+      "count": 21
+    },
+    {
+      "attribute": "A",
+      "value": "Thorpe",
+      "count": 16
+    },
+    {
+      "attribute": "S",
+      "value": "Thorpe",
+      "count": 13
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker",
+      "count": 10
+    },
+    {
+      "attribute": "A",
+      "value": "herself",
+      "count": 9
+    },
+    {
+      "attribute": "S",
+      "value": "he",
+      "count": 8
+    },
+    {
+      "attribute": "A",
+      "value": "the narrator",
+      "count": 8
+    },
+    {
+      "attribute": "S",
+      "value": "Morland",
+      "count": 7
+    },
+    {
+      "attribute": "A",
+      "value": "Morland",
+      "count": 6
+    },
+    {
+      "attribute": "A",
+      "value": "he",
+      "count": 5
+    },
+    {
+      "attribute": "S",
+      "value": "Addressee",
+      "count": 5
+    },
+    {
+      "attribute": "A",
+      "value": "Speaker",
+      "count": 5
+    },
+    {
+      "attribute": "A",
+      "value": "the previous speaker",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "the woman",
+      "count": 4
+    },
+    {
+      "attribute": "S",
+      "value": "Tilney",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "madam",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "the narrator's companion",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "young lady",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "interlocutor",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "previous speaker",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Morland",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Addressee",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Tilney",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the group",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the other speaker",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Morland",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Male",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "partner",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Narrator",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "He",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Miss Anne",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker from the previous turn",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Henry and Eleanor",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Sarah",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. and Mrs. Morland",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the gentleman",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the gentleman",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "sir",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Madam",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Catherine's interlocutor",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr.",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the person she is talking to",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker from the previous dialogue",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "her sisters",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the daughters",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs. Thorpe and her daughters",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "narrator",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "readers",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Addressee of the previous dialogue",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Speaker of the previous dialogue",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "friend",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker of the previous turn",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the person she is speaking to",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "son",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Catherine and her friend",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "James and Catherine",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "servant",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Woodhouse",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Emma",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker's interlocutor",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Speaker",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "her friend",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Catherine's friend",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "her friend",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Isabella and Mr. Thorpe",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "no",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the man",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the man",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the servant",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "She",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "companion",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "companion",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Catherine and Isabella",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Thorpe and Isabella",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Thorpe, Isabella",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "General Tilney, his son, and daughter",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Tilneys",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the ladies",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Miss Anne",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the other",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Maria",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Anne",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Isabella, John, Catherine",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "John",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Thorpe, Catherine",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Catherine's mother",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Isabella's interlocutor",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the other person",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Female",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "she",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "she",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "He",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Young Lady",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "servants",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Catherine and Eleanor",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Henry's sister",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the others",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Catherine, Eleanor",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Narrator",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Sarah",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "her family",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. and Mrs. Morland",
+      "count": 1
+    }
+  ],
+  "audit": "output/normalised/northanger_abbey_annotated_normalised.normalization_audit.jsonl"
+}

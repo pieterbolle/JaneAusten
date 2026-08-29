@@ -1,0 +1,986 @@
+{"book": "Northanger Abbey", "turn_number": "1", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "6", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "7", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "8", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "9", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "10", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "11", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "12", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "18", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "19", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "20", "attribute": "S", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "23", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "24", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "25", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "26", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "27", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "28", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "29", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "39", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "40", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "41", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "47", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "48", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "49", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "50", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "53", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "54", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "55", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "56", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "57", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "59", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "61", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "62", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "63", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "65", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "66", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "66", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "67", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "67", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "68", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "68", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "69", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "69", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "70", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "71", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "77", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "78", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "78", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "83", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "83", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "84", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "84", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "85", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "85", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "86", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "86", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "87", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "88", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "94", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "95", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "95", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "96", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "96", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "97", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "97", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "98", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "98", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "99", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "99", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "100", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "100", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "101", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "101", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "102", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "102", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "104", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "105", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "106", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "106", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "107", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "108", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "110", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "111", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "112", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "113", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "114", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "114", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "115", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "115", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "116", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "116", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "117", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "117", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "118", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "118", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "119", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "119", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "120", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "121", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "122", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "123", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "123", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "124", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "124", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "125", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "125", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "127", "attribute": "S", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "133", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "134", "attribute": "S", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "135", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "136", "attribute": "S", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "136", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "137", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "137", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "138", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "139", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "140", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "141", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "145", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "146", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "146", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "147", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "148", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "148", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "149", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "150", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "150", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "151", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "152", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "152", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "153", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "153", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "154", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "154", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "155", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "155", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "156", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "157", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "158", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "159", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "160", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "164", "attribute": "S", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "164", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "165", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "165", "attribute": "A", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "166", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "166", "attribute": "A", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "167", "attribute": "S", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "167", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "168", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "168", "attribute": "A", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "169", "attribute": "S", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "169", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "170", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "171", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "172", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "173", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "174", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "175", "attribute": "S", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "175", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "176", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "176", "attribute": "A", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "177", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "177", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "178", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "178", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "179", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "180", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "181", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "182", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "183", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "185", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "187", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "188", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "189", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "189", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "190", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "190", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "191", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "191", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "192", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "192", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "193", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "193", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "195", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "198", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "198", "attribute": "A", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "199", "attribute": "S", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "199", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "200", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "201", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "201", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "202", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "203", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "204", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "205", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "207", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "208", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "210", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "211", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "212", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "212", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "214", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "215", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "216", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "217", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "218", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "218", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "219", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "219", "attribute": "A", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "220", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "222", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "223", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "224", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "225", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "226", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "238", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "239", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "239", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "240", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "240", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "241", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "241", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "242", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "242", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "243", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "243", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "244", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "244", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "245", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "246", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "247", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "248", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "261", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "261", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "262", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "263", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "264", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "264", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "265", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "265", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "266", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "266", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "267", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "269", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "269", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "270", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "270", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "271", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "271", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "272", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "272", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "273", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "273", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "274", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "274", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "275", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "275", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "280", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "280", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "281", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "281", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "282", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "282", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "283", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "283", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "288", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "288", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "289", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "289", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "290", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "290", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "291", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "292", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "292", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "293", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "293", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "294", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "299", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "299", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "301", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "301", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "306", "attribute": "A", "raw": "general", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "316", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "317", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "318", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "318", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "319", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "319", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "320", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "321", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "321", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "322", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "322", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "323", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "324", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "325", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "326", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "327", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "328", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "329", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "330", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "331", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "332", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "333", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "337", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "338", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "339", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "340", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "341", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "342", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "342", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "343", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "343", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "346", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "347", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "348", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "355", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "355", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "357", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "358", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "358", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "365", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "365", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "366", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "366", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "367", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "367", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "368", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "368", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "370", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "371", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "372", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "373", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "374", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "374", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "375", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "375", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "376", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "376", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "377", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "377", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "378", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "378", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "379", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "379", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "382", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "383", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "384", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "385", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "386", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "387", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "387", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "388", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "389", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "390", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "391", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "391", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "392", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "393", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "394", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "394", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "395", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "396", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "397", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "398", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "398", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "399", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "399", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "400", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "400", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "402", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "403", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "404", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "405", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "406", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "407", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "408", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "409", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "409", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "410", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "410", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "411", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "411", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "412", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "412", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "413", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "414", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "414", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "415", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "415", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "416", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "416", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "417", "attribute": "S", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "417", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "418", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "418", "attribute": "A", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "419", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "420", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "421", "attribute": "S", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "421", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "422", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "422", "attribute": "A", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "423", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "423", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "425", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "426", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "427", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "427", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "428", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "428", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "429", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "430", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "433", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "434", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "435", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "436", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "437", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "438", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "442", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "443", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "444", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "445", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "446", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "447", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "448", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "449", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "449", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "450", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "450", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "451", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "451", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "452", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "454", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "455", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "455", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "456", "attribute": "S", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "456", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "457", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "458", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "458", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "460", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "460", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "461", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "461", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "462", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "462", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "464", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "464", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "465", "attribute": "S", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "465", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "466", "attribute": "S", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "466", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "469", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "470", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "470", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "471", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "471", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "472", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "472", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "473", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "474", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "474", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "475", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "475", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "476", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "476", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "477", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "477", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "478", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "480", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "481", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "482", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "483", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "483", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "485", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "485", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "486", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "486", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "487", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "487", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "488", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "488", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "490", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "490", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "492", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "492", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "493", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "494", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "495", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "496", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "497", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "498", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "499", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "499", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "500", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "500", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "501", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "501", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "502", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "502", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "503", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "503", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "504", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "504", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "505", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "505", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "506", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "506", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "507", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "507", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "508", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "508", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "509", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "509", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "510", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "510", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "511", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "511", "attribute": "A", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "512", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "513", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "513", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "517", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "518", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "519", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "521", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "521", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "524", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "525", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "526", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "526", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "527", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "528", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "529", "attribute": "S", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "529", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "530", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "531", "attribute": "S", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "531", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "532", "attribute": "A", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "533", "attribute": "S", "raw": "Miss Morland", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "533", "attribute": "A", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "534", "attribute": "S", "raw": "Mr. Thorpe", "canonical": "John Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "535", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "535", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "536", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "536", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "537", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "537", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "538", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "538", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "539", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "539", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "540", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "541", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "542", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "542", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "548", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "548", "attribute": "A", "raw": "Captain Tilney", "canonical": "Frederick Tilney"}
+{"book": "Northanger Abbey", "turn_number": "549", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "549", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "550", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "550", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "551", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "552", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "560", "attribute": "S", "raw": "Captain Tilney", "canonical": "Frederick Tilney"}
+{"book": "Northanger Abbey", "turn_number": "560", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "561", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "565", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "566", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "567", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "567", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "568", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "570", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "571", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "572", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "573", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "574", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "575", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "576", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "577", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "577", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "578", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "579", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "579", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "580", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "580", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "581", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "581", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "582", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "582", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "583", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "583", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "584", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "584", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "586", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "587", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "588", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "588", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "589", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "589", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "590", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "590", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "591", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "591", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "592", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "592", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "593", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "593", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "594", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "594", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "595", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "596", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "597", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "598", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "598", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "599", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "599", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "600", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "600", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "601", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "601", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "602", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "602", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "603", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "604", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "605", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "606", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "606", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "607", "attribute": "S", "raw": "Captain Tilney", "canonical": "Frederick Tilney"}
+{"book": "Northanger Abbey", "turn_number": "607", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "608", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "608", "attribute": "A", "raw": "Captain Tilney", "canonical": "Frederick Tilney"}
+{"book": "Northanger Abbey", "turn_number": "609", "attribute": "S", "raw": "Captain Tilney", "canonical": "Frederick Tilney"}
+{"book": "Northanger Abbey", "turn_number": "609", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "610", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "610", "attribute": "A", "raw": "Captain Tilney", "canonical": "Frederick Tilney"}
+{"book": "Northanger Abbey", "turn_number": "611", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "614", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "614", "attribute": "A", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "615", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "616", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "616", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "617", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "618", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "619", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "620", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "621", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "621", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "622", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "622", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "623", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "624", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "627", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "628", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "629", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "630", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "631", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "632", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "633", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "634", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "641", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "641", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "642", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "642", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "643", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "643", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "644", "attribute": "S", "raw": "Captain Tilney", "canonical": "Frederick Tilney"}
+{"book": "Northanger Abbey", "turn_number": "644", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "645", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "646", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "646", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "647", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "647", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "648", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "648", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "649", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "649", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "650", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "650", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "651", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "658", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "658", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "659", "attribute": "A", "raw": "mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "660", "attribute": "S", "raw": "mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "660", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "662", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "662", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "663", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "663", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "664", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "664", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "665", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "666", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "666", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "667", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "667", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "670", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "671", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "672", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "673", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "674", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "675", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "676", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "677", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "677", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "679", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "679", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "680", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "680", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "681", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "681", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "682", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "683", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "683", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "684", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "684", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "685", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "685", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "686", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "686", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "687", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "687", "attribute": "A", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "688", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "688", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "689", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "689", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "690", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "690", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "691", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "691", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "692", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "693", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "693", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "694", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "695", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "696", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "696", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "697", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "698", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "698", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "699", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "699", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "700", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "700", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "701", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "701", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "702", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "702", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "703", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "703", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "704", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "705", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "705", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "706", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "707", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "707", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "708", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "708", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "709", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "709", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "710", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "710", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "711", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "711", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "712", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "712", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "713", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "713", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "714", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "715", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "715", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "716", "attribute": "S", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "716", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "717", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "717", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "718", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "718", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "719", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "719", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "720", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "720", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "721", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "721", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "722", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "722", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "723", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "723", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "724", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "724", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "725", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "726", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "726", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "727", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "730", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "731", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "732", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "733", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "734", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "734", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "735", "attribute": "S", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "735", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "736", "attribute": "S", "raw": "Isabella", "canonical": "Isabella Thorpe"}
+{"book": "Northanger Abbey", "turn_number": "737", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "738", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "739", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "740", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "741", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "741", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "742", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "743", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "745", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "745", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "746", "attribute": "S", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "746", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "747", "attribute": "S", "raw": "James", "canonical": "James Morland"}
+{"book": "Northanger Abbey", "turn_number": "747", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "748", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "748", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "749", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "749", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "750", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "751", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "751", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "752", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "753", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "753", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "754", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "754", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "755", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "755", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "756", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "756", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "757", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "757", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "758", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "758", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "760", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "761", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "762", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "762", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "763", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "763", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "764", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "764", "attribute": "A", "raw": "Miss Tilney", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "765", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "766", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "766", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "767", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "767", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "768", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "768", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "769", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "769", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "770", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "770", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "771", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "771", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "772", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "772", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "773", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "773", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "774", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "776", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "776", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "777", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "777", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "778", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "778", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "779", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "779", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "781", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "782", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "782", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "783", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "783", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "784", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "784", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "785", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "787", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "788", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "788", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "789", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "789", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "790", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "790", "attribute": "A", "raw": "Mr. Tilney", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "791", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "792", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "792", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "793", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "794", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "795", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "795", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "796", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "796", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "797", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "797", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "798", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "801", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "802", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "803", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "805", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "805", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "806", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "806", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "807", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "807", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "808", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "808", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "809", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "809", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "810", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "810", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "811", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "811", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "812", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "812", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "813", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "813", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "814", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "814", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "815", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "815", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "816", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "816", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "817", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "817", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "818", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "818", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "819", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "819", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "820", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "820", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "821", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "821", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "822", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "822", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "823", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "823", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "824", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "824", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "825", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "825", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "826", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "826", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "827", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "827", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "828", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "828", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "829", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "829", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "830", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "830", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "831", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "831", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "832", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "832", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "833", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "833", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "834", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "834", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "835", "attribute": "S", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "835", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "836", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "836", "attribute": "A", "raw": "Eleanor", "canonical": "Eleanor Tilney"}
+{"book": "Northanger Abbey", "turn_number": "840", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "841", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "842", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "843", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "844", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "845", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "846", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "847", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "848", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "849", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "850", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "851", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "852", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "853", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "854", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "855", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "856", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "857", "attribute": "S", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "858", "attribute": "S", "raw": "Henry", "canonical": "Henry Tilney"}
+{"book": "Northanger Abbey", "turn_number": "858", "attribute": "A", "raw": "Catherine", "canonical": "Catherine Morland"}
+{"book": "Northanger Abbey", "turn_number": "860", "attribute": "S", "raw": "General", "canonical": "General Tilney"}
+{"book": "Northanger Abbey", "turn_number": "860", "attribute": "A", "raw": "Henry", "canonical": "Henry Tilney"}

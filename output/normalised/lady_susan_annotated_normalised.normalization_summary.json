@@ -1,0 +1,29 @@
+{
+  "input": "output/lady_susan_annotated_llama70B.xml",
+  "output": "output/normalised/lady_susan_annotated_normalised.xml",
+  "book": "Lady Susan",
+  "turns": 50,
+  "changed_labels": 78,
+  "changed_by_attribute": {
+    "A": 41,
+    "S": 37
+  },
+  "unresolved_labels": [
+    {
+      "attribute": "S",
+      "value": "Mrs. Ferrars",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "unknown",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Narrator",
+      "count": 1
+    }
+  ],
+  "audit": "output/normalised/lady_susan_annotated_normalised.normalization_audit.jsonl"
+}

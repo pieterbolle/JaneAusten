@@ -1,0 +1,564 @@
+{
+  "input": "output/persuasion_annotated_llama70B.xml",
+  "output": "output/normalised/persusasion_annotated_normalised.xml",
+  "book": "Persuasion",
+  "turns": 534,
+  "changed_labels": 554,
+  "changed_by_attribute": {
+    "S": 299,
+    "A": 255
+  },
+  "unresolved_labels": [
+    {
+      "attribute": "S",
+      "value": "Mrs Smith",
+      "count": 36
+    },
+    {
+      "attribute": "S",
+      "value": "Unknown",
+      "count": 25
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs Smith",
+      "count": 23
+    },
+    {
+      "attribute": "A",
+      "value": "Unknown",
+      "count": 16
+    },
+    {
+      "attribute": "S",
+      "value": "he",
+      "count": 15
+    },
+    {
+      "attribute": "S",
+      "value": "Admiral",
+      "count": 14
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs Musgrove",
+      "count": 13
+    },
+    {
+      "attribute": "A",
+      "value": "herself",
+      "count": 11
+    },
+    {
+      "attribute": "S",
+      "value": "Mr Shepherd",
+      "count": 10
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs Croft",
+      "count": 10
+    },
+    {
+      "attribute": "S",
+      "value": "Mr Elliot",
+      "count": 10
+    },
+    {
+      "attribute": "A",
+      "value": "Admiral",
+      "count": 9
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs Musgrove",
+      "count": 8
+    },
+    {
+      "attribute": "A",
+      "value": "Mr Elliot",
+      "count": 8
+    },
+    {
+      "attribute": "A",
+      "value": "Mr Shepherd",
+      "count": 7
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs Clay",
+      "count": 7
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs Clay",
+      "count": 7
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs Croft",
+      "count": 6
+    },
+    {
+      "attribute": "A",
+      "value": "the narrator",
+      "count": 6
+    },
+    {
+      "attribute": "A",
+      "value": "unknown",
+      "count": 6
+    },
+    {
+      "attribute": "A",
+      "value": "narrator",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "Sophia",
+      "count": 4
+    },
+    {
+      "attribute": "S",
+      "value": "Narrator",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "he",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "Anne and others",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Miss Musgroves",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "sister",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Frederick",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "unknown",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker from the previous paragraph",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "she",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Charles Smith",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "He",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Mr Musgrove",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "family",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Addressee",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Mary, Anne",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Frederick",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Musgrove",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Charles Hayter",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Walter",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the previous speaker",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the party",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "waiter",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "narrator",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the man",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Mr Shepherd and/or Anne",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Shepherd",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Penelope",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Shepherd",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "himself",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr and Mrs Musgrove",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Henrietta and Louisa",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. or Mrs. Musgrove",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the Musgroves",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the two young aunts",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr Musgrove",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "father and mother",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "his wife",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "his wife",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker's companion",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Miss Musgrove",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the girls",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "young fellows",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "one of the girls",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "her sister",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "The Admiral",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "The Admiral",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "brother",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "his partner",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Charles Hayter",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "nobody",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the group",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Charles' wife",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "his sister",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Sophy",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "waiter",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "all present",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Charles and Captain Wentworth",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs Harville",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Charles, Henrietta, and Captain Wentworth",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "each other",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the Musgroves",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Anne, Charles",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Sir Walter and Elizabeth",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Sir Walter and others",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Anne and her sister",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Dowager Viscountess Dalrymple",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "unspecified",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "everybody",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Sir Walter, Elizabeth, and Mrs Clay",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the servant",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the narrator or someone present",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "?",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "She",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the person she is conversing with, likely Wentworth",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Lady Dalrymple",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "previous speaker",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Anne's addressee",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Addressee",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Speaker",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the person she is speaking to",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the gentleman",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "mother",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "she",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "they",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the ill character",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Lady",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "her",
+      "count": 1
+    }
+  ],
+  "audit": "output/normalised/persusasion_annotated_normalised.normalization_audit.jsonl"
+}

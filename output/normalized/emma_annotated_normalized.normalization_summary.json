@@ -1,0 +1,579 @@
+{
+  "input": "output/emma_annotated_llama70B.xml",
+  "output": "output/normalised/emma_annotated_normalized.xml",
+  "book": "Emma",
+  "turns": 1482,
+  "changed_labels": 2103,
+  "changed_by_attribute": {
+    "A": 1049,
+    "S": 1054
+  },
+  "unresolved_labels": [
+    {
+      "attribute": "S",
+      "value": "Unknown",
+      "count": 67
+    },
+    {
+      "attribute": "A",
+      "value": "Unknown",
+      "count": 61
+    },
+    {
+      "attribute": "S",
+      "value": "he",
+      "count": 35
+    },
+    {
+      "attribute": "A",
+      "value": "herself",
+      "count": 25
+    },
+    {
+      "attribute": "A",
+      "value": "unknown",
+      "count": 19
+    },
+    {
+      "attribute": "A",
+      "value": "she",
+      "count": 11
+    },
+    {
+      "attribute": "S",
+      "value": "Narrator",
+      "count": 9
+    },
+    {
+      "attribute": "A",
+      "value": "he",
+      "count": 7
+    },
+    {
+      "attribute": "S",
+      "value": "?",
+      "count": 6
+    },
+    {
+      "attribute": "A",
+      "value": "narrator",
+      "count": 5
+    },
+    {
+      "attribute": "A",
+      "value": "the company",
+      "count": 5
+    },
+    {
+      "attribute": "S",
+      "value": "He",
+      "count": 5
+    },
+    {
+      "attribute": "A",
+      "value": "She",
+      "count": 5
+    },
+    {
+      "attribute": "S",
+      "value": "unknown",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "the party",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "Addressee",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "Addressee",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Speaker",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Emma and Harriet",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "narrator",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "she",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "Speaker",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Narrator",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "?",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "daughter",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "father",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs. Bennet",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Bennet",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs. Knightley",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Elton and Harriet",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "all",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "young man",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "himself",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "yes",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Emma and others",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "previous speaker",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "her partner",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "He",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the person she pities",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Knightley's companion",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Knightley's father",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. and Miss Bates",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Bates, Miss Bates, Mrs. Goddard",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs. Martin",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Weston's supporter",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the lady",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker from the previous turn",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the person he is conversing with",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Miss Nash",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Harriet and Emma",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "papa",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Emma's aunt",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "George",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "George",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs. Wingfield",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Parker",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Knightley and Mr. Weston",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker from the previous dialogue",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs. Dixon",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the Campbells",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Knightley and Miss Woodhouse",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Emma and possibly others",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Woodhouse and Mr. Knightley",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "aunt",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the young man",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the group",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the person being addressed",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the guest",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Weston's son",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Emma and Mrs. Weston",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "narrator's companion",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. and Mrs. Weston",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "The Coles",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Weston and others",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Weston, Miss Woodhouse, Miss Smith",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr.",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the gentlemen and Emma",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the young man",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Papa",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Daughter",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "general company",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "unspecified",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs. Weston or Emma",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs. Partridge is not mentioned as the speaker in the context history, but based on the dialogue, it seems to be the same speaker as before, likely Mrs. Partridge or another character, but for the sake of annotation, we will consider it as the same speaker as before, likely the one who was talking to Jane",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Campbell",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs. Suckling",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Eleanor",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Suckling",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "brother",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Emma, Miss Woodhouse, Miss Otway, Miss Fairfax",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "neighbours",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Lady Patroness",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Knightley",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Emma and her father",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Tilney",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Tilney",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "General Tilney",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Elton, Jane",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "her aunt",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "general",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "verbal message",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the narrator's interlocutor",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "none",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "no one in particular",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the person she is conversing with",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "She",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Patty",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "servant",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the ladies",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Elton and Miss Woodhouse",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Anne",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Woodhouse and Emma",
+      "count": 1
+    }
+  ],
+  "audit": "output/normalised/emma_annotated_normalized.normalization_audit.jsonl"
+}

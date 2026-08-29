@@ -1,0 +1,599 @@
+{
+  "input": "output/sense_and_sensibility_annotated_llama70B.xml",
+  "output": "output/normalised/sense_and_sensibility_annotated_normalised.xml",
+  "book": "Sense and Sensibility",
+  "turns": 1002,
+  "changed_labels": 1409,
+  "changed_by_attribute": {
+    "S": 701,
+    "A": 708
+  },
+  "unresolved_labels": [
+    {
+      "attribute": "S",
+      "value": "Unknown",
+      "count": 34
+    },
+    {
+      "attribute": "S",
+      "value": "he",
+      "count": 30
+    },
+    {
+      "attribute": "S",
+      "value": "Miss Steele",
+      "count": 20
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Dashwood",
+      "count": 18
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Dashwood",
+      "count": 17
+    },
+    {
+      "attribute": "A",
+      "value": "Unknown",
+      "count": 16
+    },
+    {
+      "attribute": "A",
+      "value": "he",
+      "count": 14
+    },
+    {
+      "attribute": "A",
+      "value": "Miss Steele",
+      "count": 10
+    },
+    {
+      "attribute": "A",
+      "value": "Elinor and Marianne",
+      "count": 9
+    },
+    {
+      "attribute": "A",
+      "value": "Colonel",
+      "count": 8
+    },
+    {
+      "attribute": "S",
+      "value": "Colonel",
+      "count": 6
+    },
+    {
+      "attribute": "A",
+      "value": "Thomas",
+      "count": 5
+    },
+    {
+      "attribute": "A",
+      "value": "unknown",
+      "count": 4
+    },
+    {
+      "attribute": "S",
+      "value": "He",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "herself",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "the narrator",
+      "count": 4
+    },
+    {
+      "attribute": "S",
+      "value": "John",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "Marianne and Elinor",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Brandon",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Lady",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "the group",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "unknown",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker from the previous dialogue",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Miss Dashwoods",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "footman",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "she",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "Narrator",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Ferrars",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "brother",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "brother",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "ma'am",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "narrator",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "Thomas",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "his wife",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the lady",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "John",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Marrianne Dashwood",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "servant",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "?",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "everyone",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "general",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the previous speaker",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Ferrars",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Dashwood, Elinor",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "himself",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "her husband",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "wife",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "husband",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "previous speaker",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "lady",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mama",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "her family",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Dashwood and her daughters",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Elinor and Margaret",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mariane and others",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Elinor, Mrs. Dashwood",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Willoughby, Marianne",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the party",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "ma'am",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "no addressee specified",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "multiple",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Smith",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Elinor, Marianne, Margaret",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker of the previous dialogue",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Dashwoods",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Dashwood and Lady Middleton",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the good-natured old lady",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "no one",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Lady",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Palmer and his wife",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the lady who asked the question",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Addressee",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Speaker",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the other ladies",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the companion",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Speaker of previous turn",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "she",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "narrator's companion",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Pratt",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "companion",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the woman",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the other speaker",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "no one in particular",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the other lady",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the other",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the first speaker",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Elinor and Marianne Dashwood",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Marianne and her sister",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the Miss Dashwoods and her mother",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the footman",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the servant",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Ma'am",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the gentleman",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Someone",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Smith",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Knightley",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Miss Steele's cousin",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. (likely the same person as in the context history, but not explicitly stated in the target paragraph)",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "no addressee",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "sisters",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "narrator",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the narrator and possibly others present",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "all",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Addressee",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the visitor",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the lady who asked the questions",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Harris",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the man",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "He",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "man-servant",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "mistress",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Servant",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "servant",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Servant",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Marianne and her mother",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Lucy Ferrars",
+      "count": 1
+    }
+  ],
+  "audit": "output/normalised/sense_and_sensibility_annotated_normalised.normalization_audit.jsonl"
+}

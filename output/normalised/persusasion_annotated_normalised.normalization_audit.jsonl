@@ -1,0 +1,554 @@
+{"book": "Persuasion", "turn_number": "1", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "2", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "3", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "3", "attribute": "A", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "4", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "6", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "7", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "8", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "9", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "10", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "12", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "13", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "13", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "14", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "15", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "16", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "17", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "18", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "18", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "19", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "20", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "21", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "22", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "23", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "24", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "25", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "27", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "28", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "29", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "31", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "33", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "33", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "34", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "34", "attribute": "A", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "35", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "35", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "36", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "36", "attribute": "A", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "37", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "37", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "38", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "38", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "39", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "39", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "40", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "40", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "41", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "42", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "43", "attribute": "S", "raw": "Mrs. Charles Musgrove", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "44", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "44", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "45", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "45", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "46", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "47", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "47", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "48", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "48", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "49", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "49", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "50", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "50", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "51", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "51", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "52", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "52", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "55", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "55", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "56", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "56", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "57", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "57", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "58", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "60", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "60", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "63", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "63", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "64", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "64", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "65", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "65", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "66", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "67", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "67", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "68", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "69", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "71", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "71", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "72", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "72", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "73", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "74", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "75", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "76", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "76", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "77", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "77", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "78", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "82", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "86", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "86", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "87", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "87", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "88", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "88", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "89", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "90", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "91", "attribute": "A", "raw": "Mrs. Charles Musgrove", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "92", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "92", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "93", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "93", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "94", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "95", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "95", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "96", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "97", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "98", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "98", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "101", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "102", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "104", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "107", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "108", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "109", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "110", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "110", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "111", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "111", "attribute": "A", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "112", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "113", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "114", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "115", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "117", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "118", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "119", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "122", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "126", "attribute": "S", "raw": "Mrs. Croft", "canonical": "Sophia Croft"}
+{"book": "Persuasion", "turn_number": "129", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "133", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "134", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "136", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "136", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "137", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "137", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "138", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "138", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "139", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "139", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "140", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "141", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "141", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "142", "attribute": "S", "raw": "Henrietta", "canonical": "Henrietta Musgrove"}
+{"book": "Persuasion", "turn_number": "142", "attribute": "A", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "143", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "144", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "145", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "148", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "149", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "149", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "150", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "150", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "151", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "152", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "153", "attribute": "A", "raw": "Henrietta", "canonical": "Henrietta Musgrove"}
+{"book": "Persuasion", "turn_number": "154", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "154", "attribute": "A", "raw": "Henrietta", "canonical": "Henrietta Musgrove"}
+{"book": "Persuasion", "turn_number": "155", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "156", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "156", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "157", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "157", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "158", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "158", "attribute": "A", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "159", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "159", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "161", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "162", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "162", "attribute": "A", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "163", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "164", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "166", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "171", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "172", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "173", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "173", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "174", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "174", "attribute": "A", "raw": "Captain Benwick", "canonical": "James Benwick"}
+{"book": "Persuasion", "turn_number": "175", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "175", "attribute": "A", "raw": "Captain Benwick", "canonical": "James Benwick"}
+{"book": "Persuasion", "turn_number": "176", "attribute": "S", "raw": "Henrietta", "canonical": "Henrietta Musgrove"}
+{"book": "Persuasion", "turn_number": "176", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "177", "attribute": "S", "raw": "Henrietta", "canonical": "Henrietta Musgrove"}
+{"book": "Persuasion", "turn_number": "177", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "178", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "179", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "180", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "181", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "183", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "184", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "184", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "185", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "185", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "186", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "186", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "188", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "189", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "190", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "192", "attribute": "S", "raw": "Louisa", "canonical": "Louisa Musgrove"}
+{"book": "Persuasion", "turn_number": "192", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "193", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "194", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "195", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "196", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "196", "attribute": "A", "raw": "Captain Benwick", "canonical": "James Benwick"}
+{"book": "Persuasion", "turn_number": "197", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "197", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "198", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "199", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "199", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "200", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "201", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "201", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "202", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "203", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "203", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "204", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "204", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "207", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "208", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "209", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "209", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "210", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "210", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "211", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "211", "attribute": "A", "raw": "Henrietta", "canonical": "Henrietta Musgrove"}
+{"book": "Persuasion", "turn_number": "212", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "212", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "213", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "213", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "214", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "214", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "215", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "216", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "217", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "218", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "219", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "222", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "223", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "225", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "226", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "226", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "227", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "228", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "228", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "229", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "230", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "231", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "232", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "232", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "233", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "234", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "235", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "236", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "237", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "238", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "239", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "240", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "241", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "242", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "243", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "244", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "245", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "246", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "247", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "247", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "248", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "248", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "249", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "251", "attribute": "S", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "252", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "252", "attribute": "A", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "253", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "254", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "255", "attribute": "A", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "256", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "257", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "258", "attribute": "S", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "258", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "259", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "259", "attribute": "A", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "260", "attribute": "S", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "260", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "261", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "261", "attribute": "A", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "262", "attribute": "S", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "262", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "263", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "264", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "265", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "266", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "267", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "268", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "270", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "271", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "272", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "273", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "274", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "276", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "277", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "278", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "279", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "280", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "281", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "282", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "283", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "284", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "284", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "285", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "285", "attribute": "A", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "286", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "287", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "288", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "289", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "290", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "290", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "291", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "291", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "292", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "293", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "294", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "294", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "295", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "295", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "296", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "297", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "297", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "298", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "298", "attribute": "A", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "299", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "299", "attribute": "A", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "300", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "300", "attribute": "A", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "301", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "301", "attribute": "A", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "302", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "304", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "305", "attribute": "S", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "305", "attribute": "A", "raw": "Miss Elliot", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "307", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "308", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "309", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "310", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "311", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "312", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "312", "attribute": "A", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "313", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "314", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "315", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "316", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "317", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "318", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "319", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "320", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "322", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "323", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "323", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "324", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "324", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "325", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "325", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "328", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "328", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "329", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "335", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "337", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "338", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "339", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "339", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "340", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "340", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "342", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "343", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "344", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "345", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "346", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "347", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "348", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "350", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "351", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "352", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "353", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "354", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "358", "attribute": "S", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "360", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "361", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "362", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "362", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "363", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "363", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "364", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "365", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "366", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "367", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "367", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "368", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "368", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "369", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "369", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "370", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "371", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "372", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "377", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "378", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "379", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "380", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "381", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "382", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "383", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "384", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "386", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "388", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "389", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "390", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "391", "attribute": "A", "raw": "Miss Elliot", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "392", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "393", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "394", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "395", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "398", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "399", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "400", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "401", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "402", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "403", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "404", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "412", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "413", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "414", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "415", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "417", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "419", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "420", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "421", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "422", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "423", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "424", "attribute": "S", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "425", "attribute": "S", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "426", "attribute": "S", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "427", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "428", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "429", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "430", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "441", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "442", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "443", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "444", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "445", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "445", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "446", "attribute": "A", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "447", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "448", "attribute": "A", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "449", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "451", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "451", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "452", "attribute": "S", "raw": "Sir Walter", "canonical": "Sir Walter Elliot"}
+{"book": "Persuasion", "turn_number": "452", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "453", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "453", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "454", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "454", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "455", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "455", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "456", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "457", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "458", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "459", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "460", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "461", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "461", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "462", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "462", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "463", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "463", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "464", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "464", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "465", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "466", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "466", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "467", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "467", "attribute": "A", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "468", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "468", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "469", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "469", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "470", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "471", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "471", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "472", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "473", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "474", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "474", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "475", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "475", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "476", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "476", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "477", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "478", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "479", "attribute": "S", "raw": "Elizabeth", "canonical": "Elizabeth Elliot"}
+{"book": "Persuasion", "turn_number": "479", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "480", "attribute": "S", "raw": "Mary", "canonical": "Mary Musgrove"}
+{"book": "Persuasion", "turn_number": "480", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "482", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "488", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "489", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "490", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "492", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "493", "attribute": "S", "raw": "Captain Benwick", "canonical": "James Benwick"}
+{"book": "Persuasion", "turn_number": "493", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "494", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "494", "attribute": "A", "raw": "Mr. Elliot", "canonical": "William Elliot"}
+{"book": "Persuasion", "turn_number": "495", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "496", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "498", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "499", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "500", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "501", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "502", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "507", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "508", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "510", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "511", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "512", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "512", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "513", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "514", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "517", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "518", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "519", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "520", "attribute": "S", "raw": "Mrs. Croft", "canonical": "Sophia Croft"}
+{"book": "Persuasion", "turn_number": "521", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "521", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "522", "attribute": "S", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "522", "attribute": "A", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "523", "attribute": "S", "raw": "Charles", "canonical": "Charles Musgrove"}
+{"book": "Persuasion", "turn_number": "523", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "526", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "528", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "529", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "530", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "531", "attribute": "A", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "532", "attribute": "S", "raw": "Anne", "canonical": "Anne Elliot"}
+{"book": "Persuasion", "turn_number": "532", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}
+{"book": "Persuasion", "turn_number": "534", "attribute": "A", "raw": "Captain Wentworth", "canonical": "Frederick Wentworth"}

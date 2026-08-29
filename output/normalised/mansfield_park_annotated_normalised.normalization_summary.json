@@ -1,0 +1,664 @@
+{
+  "input": "output/mansfield_park_annotated_llama70B.xml",
+  "output": "output/normalised/mansfield_park_annotated_normalised.xml",
+  "book": "Mansfield Park",
+  "turns": 1136,
+  "changed_labels": 1463,
+  "changed_by_attribute": {
+    "A": 722,
+    "S": 741
+  },
+  "unresolved_labels": [
+    {
+      "attribute": "S",
+      "value": "Unknown",
+      "count": 39
+    },
+    {
+      "attribute": "A",
+      "value": "Unknown",
+      "count": 27
+    },
+    {
+      "attribute": "A",
+      "value": "herself",
+      "count": 23
+    },
+    {
+      "attribute": "S",
+      "value": "he",
+      "count": 22
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Bertram",
+      "count": 17
+    },
+    {
+      "attribute": "A",
+      "value": "unknown",
+      "count": 14
+    },
+    {
+      "attribute": "A",
+      "value": "the group",
+      "count": 13
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Bertram",
+      "count": 11
+    },
+    {
+      "attribute": "A",
+      "value": "he",
+      "count": 10
+    },
+    {
+      "attribute": "A",
+      "value": "cousin",
+      "count": 9
+    },
+    {
+      "attribute": "A",
+      "value": "she",
+      "count": 9
+    },
+    {
+      "attribute": "S",
+      "value": "cousin",
+      "count": 8
+    },
+    {
+      "attribute": "S",
+      "value": "unknown",
+      "count": 5
+    },
+    {
+      "attribute": "S",
+      "value": "narrator",
+      "count": 5
+    },
+    {
+      "attribute": "S",
+      "value": "Addressee",
+      "count": 5
+    },
+    {
+      "attribute": "A",
+      "value": "Speaker",
+      "count": 5
+    },
+    {
+      "attribute": "A",
+      "value": "He",
+      "count": 5
+    },
+    {
+      "attribute": "A",
+      "value": "narrator",
+      "count": 5
+    },
+    {
+      "attribute": "A",
+      "value": "unspecified",
+      "count": 4
+    },
+    {
+      "attribute": "S",
+      "value": "Cousin",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "Cousin",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "himself",
+      "count": 4
+    },
+    {
+      "attribute": "S",
+      "value": "she",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker",
+      "count": 4
+    },
+    {
+      "attribute": "A",
+      "value": "the company",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "aunt",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "his sister",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "all",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "no addressee specified",
+      "count": 3
+    },
+    {
+      "attribute": "S",
+      "value": "Narrator",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Bertram",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "family",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "Betsey",
+      "count": 3
+    },
+    {
+      "attribute": "A",
+      "value": "mama",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "the other",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "aunt",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "sister",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the narrator",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the young people",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "the lady",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "He",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "ma'am",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "no",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "no addressee mentioned",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the uncle",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "Miss Crawford and Fanny",
+      "count": 2
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker from the previous dialogue",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "Aunt",
+      "count": 2
+    },
+    {
+      "attribute": "S",
+      "value": "they",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "their aunt",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "her niece",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "nieces",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the cousins",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Narrator",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Norris, Lady Bertram",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "sister",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "someone",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Henry's sister",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "?",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker of the previous line",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Norris and Mrs. Grant",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Grant, Mrs. Norris, Miss Bertram",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Rushworth's companion",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Grant",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Edmund and Fanny",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "old coachman",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Miss Bertrams",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the ladies",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Norris and Lady Bertram",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "his mother",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the whole party",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Edmund, Miss Crawford",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "James",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Female",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Male",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Tilney",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Lady",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the gentleman",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the listener",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "?",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Aunt",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Bertram and others",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Tom Bertram, Mr. Yates, Maria",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Manager (Henry Crawford)",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the party round the table",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Multiple",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the party",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Speaker",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Addressee",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr.",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Fanny's interlocutor",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Bertram and Maria",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Aunt Bertram",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Aunt Bertram",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mrs. Grant's sister-in-law",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "narratee",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "none",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "The Crawfords",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mr. Allen",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the speaker's uncle (through the narrator)",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Fanny and Edmund",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Miss Crawford and others",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Edmund and Mrs. Grant",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Lady",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mr. Knightley",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Fanny's brother",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "general",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "the clergyman",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Sir",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Sir",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Mary's sister",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "servant",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "butler",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "butler",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Baddeley",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "the speaker",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Fanny's sister (likely Mrs. Norris or Lady Bertram, but not explicitly stated in the provided context)",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "boy",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Fanny and William",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "mother",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "daughters",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "his son",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "his mother and Rebecca",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Sam",
+      "count": 1
+    },
+    {
+      "attribute": "S",
+      "value": "Betsey",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "Mrs. Price and her daughters",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "his daughters",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "interlocutor",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "parents",
+      "count": 1
+    },
+    {
+      "attribute": "A",
+      "value": "father",
+      "count": 1
+    }
+  ],
+  "audit": "output/normalised/mansfield_park_annotated_normalised.normalization_audit.jsonl"
+}
