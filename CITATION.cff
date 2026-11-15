@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this corpus or software in your research, please cite it using the metadata from this file."
+type: dataset
+title: "Computational Literary Annotation of Jane Austen's Novels"
+version: 1.0.0
+date-released: 2026-03-30
+authors:
+  - family-names: "Bolle"
+    given-names: "Pieter"
+    affiliation: "KU Leuven"
+  - family-names: "De Smet"
+    given-names: "Hendrik"
+    affiliation: "KU Leuven"
+repository-code: "https://github.com/pieterbolle/JaneAusten"
+license: "CC-BY-SA-4.0"
+licenses:
+  - name: "GNU General Public License v3.0 or later"
+    type: gpl-3.0
+    url: "https://www.gnu.org/licenses/gpl-3.0.en.html"
+  - name: "Creative Commons Attribution-ShareAlike 4.0 International"
+    type: cc-by-sa-4.0
+    url: "https://creativecommons.org/licenses/by-sa/4.0/"
+identifiers:
+  - description: "This is the collection of annotated XML corpora and Python scripts based on texts from Project Gutenberg."
+    type: url
+    value: "https://github.com/pieterbolle/JaneAusten"

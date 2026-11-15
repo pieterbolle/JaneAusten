@@ -366,6 +366,21 @@ A particularly efficient next audit is to review the **v1-only indirect spans** 
 
 The central conclusion is methodological as well as practical: v2 improves structural and representational discipline, but neither fewer annotations nor higher inter-model agreement proves greater literary accuracy. A source-grounded, protocol-stable adjudication layer is the necessary next step.
 
+## 10. Licenses
+
+This project uses a dual-licensing structure:
+- **Source code (`*.py`):** Released under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
+- **Annotated corpus (`corpus/*.xml`):** Released under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE-DATA).
+
+## 11. How to Cite
+
+If you use the corpus or the annotation pipeline in academic research, please cite:
+> [Bolle, Pieter], & [De Smet Hendrik]. (2026). *Computational Literary Annotation of Jane Austen's Novels* (Version 1.0) [Dataset & Software]. [KULeuven / https://github.com/pieterbolle/JaneAusten/].
+
+## 12. Acknowledgements & Source Texts
+
+The base plain-text files used for this annotation pipeline were sourced from [Project Gutenberg](https://www.gutenberg.org/), as Jane Austen's novels are in the public domain. We gratefully acknowledge Project Gutenberg and its volunteers for making these digital editions freely available.
+
 ## Appendix A. Reproducibility
 
 The companion [comparison script](compare_sense_and_sensibility.py) parses the supplied files, computes all descriptive and agreement metrics, and exports [full comparison results](sense_and_sensibility_comparison.json) and [turn records](sense_and_sensibility_turn_records.json). It requires Python, NumPy, and SciPy. It performs no model calls and does not execute the annotation scripts. Defaults read inputs two directory levels above the evaluator and write results beside it; `--data-dir` and `--output-dir` override those paths.

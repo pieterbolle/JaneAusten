@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Pieter Bolle
 """Normalize speaker/addressee labels in Jane Austen annotation XML.
 
 Safety principles:

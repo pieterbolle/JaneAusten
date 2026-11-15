@@ -650,3 +650,24 @@ Record the following for every experiment:
 - normalization dictionary version and normalization audit.
 
 This separates the immutable source text, model proposals, accepted source mappings and later character normalization into traceable layers.
+
+---
+
+## 17. Licenses
+
+This project uses a dual-licensing structure:
+- **Source code (`*.py`):** Released under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
+- **Annotated corpus (`corpus/*.xml`):** Released under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE-DATA).
+
+---
+
+## 18. How to Cite
+
+If you use the corpus or the annotation pipeline in academic research, please cite:
+> [Bolle, Pieter], & [De Smet Hendrik]. (2026). *Computational Literary Annotation of Jane Austen's Novels* (Version 1.0) [Dataset & Software]. [KULeuven / https://github.com/pieterbolle/JaneAusten/].
+
+---
+
+## 19. Acknowledgements & Source Texts
+
+The base plain-text files used for this annotation pipeline were sourced from [Project Gutenberg](https://www.gutenberg.org/), as Jane Austen's novels are in the public domain. We gratefully acknowledge Project Gutenberg and its volunteers for making these digital editions freely available.

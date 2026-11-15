@@ -358,6 +358,25 @@ Then rerun the same frozen model/configuration with controlled changes to follow
 
 The central result is therefore a qualified one: the latest pipeline improves agreement on several operationally important layers, but a clean estimate of literary accuracy requires a more consistent reference and a stable annotation ontology.
 
+## 9. Licenses
+
+This project uses a dual-licensing structure:
+- **Source code (`*.py`):** Released under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
+- **Annotated corpus (`corpus/*.xml`):** Released under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE-DATA).
+
+---
+
+## 10. How to Cite
+
+If you use the corpus or the annotation pipeline in academic research, please cite:
+> [Bolle, Pieter], & [De Smet Hendrik]. (2026). *Computational Literary Annotation of Jane Austen's Novels* (Version 1.0) [Dataset & Software]. [KULeuven / https://github.com/pieterbolle/JaneAusten/].
+
+---
+
+## 11. Acknowledgements & Source Texts
+
+The base plain-text files used for this annotation pipeline were sourced from [Project Gutenberg](https://www.gutenberg.org/), as Jane Austen's novels are in the public domain. We gratefully acknowledge Project Gutenberg and its volunteers for making these digital editions freely available.
+
 ## Appendix A. Marker anomalies
 
 These are parser-detected events at worksheet rows, not adjudicated literary errors. Unclosed openings are relative to nonblank row groups; the original workbook remains authoritative for manual review.

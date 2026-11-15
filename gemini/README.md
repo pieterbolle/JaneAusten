@@ -653,3 +653,22 @@ Depending on the version and run, output artifacts include:
 The latest script writes final XML only after completing annotation and export checks. A checkpoint-only pause does not create a new partial XML result; an older XML file already present in that directory should not be mistaken for the paused run's current output.
 
 Historical results remain useful for comparison, but differences can reflect changes in model, prompts, annotation scope, context, registry policy, or schema. Do not interpret version progression alone as evidence of higher accuracy.
+
+## Licenses
+
+This project uses a dual-licensing structure:
+- **Source code (`*.py`):** Released under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
+- **Annotated corpus (`corpus/*.xml`):** Released under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE-DATA).
+
+---
+
+## How to Cite
+
+If you use the corpus or the annotation pipeline in academic research, please cite:
+> [Bolle, Pieter], & [De Smet Hendrik]. (2026). *Computational Literary Annotation of Jane Austen's Novels* (Version 1.0) [Dataset & Software]. [KULeuven / https://github.com/pieterbolle/JaneAusten/].
+
+---
+
+## Acknowledgements & Source Texts
+
+The base plain-text files used for this annotation pipeline were sourced from [Project Gutenberg](https://www.gutenberg.org/), as Jane Austen's novels are in the public domain. We gratefully acknowledge Project Gutenberg and its volunteers for making these digital editions freely available.
